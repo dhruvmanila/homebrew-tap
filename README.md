@@ -1,2 +1,7 @@
 # homebrew-tap
-Personal Homebrew Formulae
+
+Homebrew Formulae to personal tools.
+
+```bash
+brew tap dhruvmanila/tap
+```
